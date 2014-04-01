@@ -1,4 +1,4 @@
-Template with makefile for submitting to IEEE conferences
+Dealing with the conference templates from the IEEE website involves unpacking two archives and removing excess files that you don't need. This simple repository handles that work for you and provides a makefile for compilation.
 
 ----
 Adam McLaughlin (Adam27X@gatech.edu)
